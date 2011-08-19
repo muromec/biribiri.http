@@ -8,7 +8,7 @@ setup(
     author = 'Ilya Petrov',
     author_email = 'ilya.muromec@gmail.com',
     url = 'http://biribiri.enodev.org',
-    packages = ['biribiri', 'biribiri.frontend',],
+    packages = ['biribiri', 'biribiri.http',],
     license = "BSDL",
     scripts = [],
 )
